@@ -53,8 +53,8 @@ class PragadeeshV:
 ```
 </details>
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=vpragadeesh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpragadeesh&theme=dark&hide_border=true&layout=compact&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vpragadeesh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpragadeesh&theme=dark&hide_border=true&layout=compact&bg_color=000000&card_width=400" />
 </div>
 
 ## ⚡ My Tech Arsenal
@@ -65,7 +65,7 @@ class PragadeeshV:
 ### 🏗️ Backend Powerhouse
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" height="50" title="Go" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" title="C" />
   
 </div>
