@@ -130,4 +130,4 @@ class PragadeeshV:
 </div>
 
 ## 📄 Professional Portfolio
-**Ready to dive deeper?** → [📋 Check out my Resume](https://github.com/user-attachments/files/21004794/Pragadeesh_S_Resume.pdf)
+**Ready to dive deeper?** → [📋 Check out my Resume][Pragadeesh_V_resume.pdf](https://github.com/user-attachments/files/22049402/Pragadeesh_V_resume.pdf)
