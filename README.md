@@ -52,9 +52,9 @@ class PragadeeshV:
         return "Debugging the future, one neural network at a time! 🚀"
 ```
 </details>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vpragadeesh&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpragadeesh&theme=synthwave&hide_border=true&layout=compact" />
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=vpragadeesh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpragadeesh&theme=dark&hide_border=true&layout=compact&bg_color=000000" />
 </div>
 
 ## ⚡ My Tech Arsenal
@@ -65,10 +65,9 @@ class PragadeeshV:
 ### 🏗️ Backend Powerhouse
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" height="50" title="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" title="Kotlin" />
+  
 </div>
 
 ### 🎨 Frontend Artistry
@@ -130,4 +129,4 @@ class PragadeeshV:
 </div>
 
 ## 📄 Professional Portfolio
-**Ready to dive deeper?** → [📋 Check out my Resume][Pragadeesh_V_resume.pdf](https://github.com/user-attachments/files/22049402/Pragadeesh_V_resume.pdf)
+**Ready to dive deeper?** → [📋 Check out my Resume](https://github.com/user-attachments/files/21004794/Pragadeesh_S_Resume.pdf)
